@@ -25,12 +25,8 @@ Features a stunning **glassmorphism** design with custom CSS, providing a premiu
 
 <div align="center">
   <img src="screenshots/Screenshot 2026-06-30 052537.png" width="45%" alt="UI Screenshot 1"/>
-  <img src="screenshots/Screenshot 2026-06-30 052611.png" width="45%" alt="UI Screenshot 2"/>
-  <img src="screenshots/Screenshot 2026-06-30 052624.png" width="45%" alt="UI Screenshot 3"/>
-  <img src="screenshots/Screenshot 2026-06-30 052836.png" width="45%" alt="UI Screenshot 4"/>
-  <img src="screenshots/Screenshot 2026-06-30 052854.png" width="45%" alt="UI Screenshot 5"/>
-  <img src="screenshots/Screenshot 2026-06-30 052913.png" width="45%" alt="UI Screenshot 6"/>
-  <img src="screenshots/Screenshot 2026-06-30 053328.png" width="45%" alt="UI Screenshot 7"/>
+  <img src="screenshots/Screenshot 2026-06-30 052913.png" width="45%" alt="UI Screenshot 2"/>
+  <img src="screenshots/Screenshot 2026-06-30 053328.png" width="45%" alt="UI Screenshot 3"/>
 </div>
 
 ---
